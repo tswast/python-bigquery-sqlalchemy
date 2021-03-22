@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "git": {
+        "name": ".",
+        "remote": "git@github.com:tswast/pybigquery.git",
+        "sha": "3250fa796b28225cb1c89d7afea3c2e2a2bf2305"
+      }
+    }
+  ]
+}

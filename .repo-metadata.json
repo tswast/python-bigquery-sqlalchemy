@@ -1,0 +1,9 @@
+{
+  "name": "pybigquery",
+  "name_pretty": "SQLAlchemy dialect for BigQuery",
+  "client_documentation": "https://github.com/mxmzdlv/pybigquery",
+  "release_level": "beta",
+  "language": "python",
+  "repo": "mxmzdlv/pybigquery",
+  "distribution_name": "pybigquery"
+}
